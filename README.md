@@ -1,18 +1,15 @@
-Multi-Department Network Design
+Network Design with VLANs & Wireless in Cisco Packet Tracer
 
-A simple network design using Cisco Packet Tracer with three departments: Admin, Finance, and CS/Reception. Each department is on a separate VLAN, has wireless access, and can communicate with other departments.
+📌 Overview
 
-Features
-VLANs: Admin (VLAN 10), Finance (VLAN 20), CS/Reception (VLAN 30).
+This project simulates a network with three VLANs (Admin, Finance, CS/Reception) in Cisco Packet Tracer. Each department has its own VLAN and wireless network, ensuring security while allowing communication between them.
 
-Wireless Networks: Dedicated SSIDs for each department.
+🔧 Features
 
-Inter-VLAN Routing: Enables secure communication between departments.
+VLAN segmentation for security & efficiency
 
-Tools
-Cisco Packet Tracer
+Inter-VLAN communication via a Layer 3 device
 
-How to Use
-Open the .pkt file in Cisco Packet Tracer.
+Wireless access for each department
 
-Explore the VLANs, wireless settings, and inter-department communication.
+DHCP for dynamic IP allocation
